@@ -39,7 +39,7 @@ Tasks performed:
 - Serenity BDD, JBehave, rest-assured, JUnit, Hamcrest, AssertJ, Wiremock, Jira/Bitbucket/Confluence
 - Java, JUnit, Maven, git
 
-`Apr-2016 - Till now (Mar-2021)`
+`Apr-2016 - Dec 2016`
 
 ### **Senior Software Test Automation Engineer** , **EPAM Systems**, http://www.epam.com
 
