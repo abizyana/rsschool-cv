@@ -4,5 +4,13 @@
   padding: 0 15px;
   margin: 0 auto;
   background-color: rgb(240, 235, 235);
-  border: 2px dashed grey;
+  border: 1px dashed grey;
+}
+.inner {
+  border: 1px dashed grey;
+  padding: 15px;
+  margin: 1px -15px;
+  width: 100%;
+  border-right: transparent;
+  border-left: transparent;
 }
